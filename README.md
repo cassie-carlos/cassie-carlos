@@ -7,7 +7,6 @@ As a developing cybersecurity professional, I am committed to continuous learnin
 My background in computer science has sparked a strong passion for cybersecurity, and I am now eager to transition into this field to contribute to safeguarding digital assets and mitigating threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,6 @@ My background in computer science has sparked a strong passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
